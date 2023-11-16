@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //package com.example.java;
-// java 
+// java fff gggnjmg
  class Segment{
     private int a1;
     private int b1;
