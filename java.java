@@ -1,8 +1,10 @@
 import java.util.Scanner;
 //package com.example.java;
+// java 
  class Segment{
     private int a1;
     private int b1;
+    private int B1;
 
     public Segment(int a1, int b1) {
         this.a1 = a1;
